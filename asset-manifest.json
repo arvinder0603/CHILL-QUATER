@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.672447e2.css",
+    "main.js": "/static/js/main.fa47ac8a.js",
+    "static/media/paytm.jpg": "/static/media/paytm.1c2af705b0cac078a12c.jpg",
+    "index.html": "/index.html",
+    "main.672447e2.css.map": "/static/css/main.672447e2.css.map",
+    "main.fa47ac8a.js.map": "/static/js/main.fa47ac8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672447e2.css",
+    "static/js/main.fa47ac8a.js"
+  ]
+}
